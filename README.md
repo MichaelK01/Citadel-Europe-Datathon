@@ -1,5 +1,5 @@
 # Citadel-Europe-Datathon
-This repository contains the project I worked on along with three others for the week long European Regional Datathon 2021. The project won third place. The project examines aspects of the Upworthy Research Archive. My contribution focused on time-series analysis of CTR over time.  
+This repository contains the project I worked on along with three others for the week long European Regional Datathon 2021. The project won __third place__. The project examines aspects of the Upworthy Research Archive. My contribution focused on time-series analysis of CTR over time.  
 
 The main files in the repository are:
 - *Team_3_report*: Our full report of the project.
