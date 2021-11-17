@@ -10,3 +10,5 @@ The code used to produce my own contribution can be found in the files:
 - *Datathon Code*: Main body of code used to produce my analysis.
 - *ARIMA-GARCH Estimation*: A short script used to produce estimates of model coefficients. 
 
+I have also included a short personal summary detailing the challenging aspects of the project, my solutions, areas of interest for further research, and things I have learned from the project. This was produced after the project was submitted. The file name is *Personal_Summary_of_Project*.
+
